@@ -1,6 +1,8 @@
 # Smol Age Frontend
 
-The smol age application frontend. Preview lnk: smol-age-website-delta.vercel.app
+The smol age application frontend.
+
+Website: https://www.smolage.com/
 
 ## Getting started
 
